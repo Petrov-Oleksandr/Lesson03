@@ -1,0 +1,15 @@
+C:\Beetroot_C#\EfElseProject\EfElseProject\bin\Debug\net6.0\EfElseProject.exe
+C:\Beetroot_C#\EfElseProject\EfElseProject\bin\Debug\net6.0\EfElseProject.deps.json
+C:\Beetroot_C#\EfElseProject\EfElseProject\bin\Debug\net6.0\EfElseProject.runtimeconfig.json
+C:\Beetroot_C#\EfElseProject\EfElseProject\bin\Debug\net6.0\EfElseProject.dll
+C:\Beetroot_C#\EfElseProject\EfElseProject\bin\Debug\net6.0\EfElseProject.pdb
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\EfElseProject.csproj.AssemblyReference.cache
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\EfElseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\EfElseProject.AssemblyInfoInputs.cache
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\EfElseProject.AssemblyInfo.cs
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\EfElseProject.csproj.CoreCompileInputs.cache
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\EfElseProject.dll
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\refint\EfElseProject.dll
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\EfElseProject.pdb
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\EfElseProject.genruntimeconfig.cache
+C:\Beetroot_C#\EfElseProject\EfElseProject\obj\Debug\net6.0\ref\EfElseProject.dll
